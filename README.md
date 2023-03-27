@@ -1,7 +1,12 @@
 ### Hi there 👋
+I am a Computer Science Student interested in Computer Security.\
+🔭Working on:
++ Exploit Development
++ Security Research
++ OS Development
 
 <!--
-**KillerCroc9/KillerCroc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PAPADOXIE/PAPADOXIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Nofil's github stats](https://github-readme-stats.vercel.app/api?username=PAPADOXIE&theme=radical&show_icons=true)](https://github.com/KillerCroc9/github-readme-stats)
+
+![Nofil's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerCroc9&theme=radical&layout=compact)
