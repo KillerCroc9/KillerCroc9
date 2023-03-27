@@ -6,7 +6,7 @@ I am a Computer Science Student interested in Computer Security.\
 + OS Development
 
 <!--
-**PAPADOXIE/PAPADOXIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KillerCroc9/KillerCroc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Nofil's github stats](https://github-readme-stats.vercel.app/api?username=PAPADOXIE&theme=radical&show_icons=true)](https://github.com/KillerCroc9/github-readme-stats)
+[![Muqeet's github stats](https://github-readme-stats.vercel.app/api?username=PAPADOXIE&theme=radical&show_icons=true)](https://github.com/KillerCroc9/github-readme-stats)
 
-![Nofil's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerCroc9&theme=radical&layout=compact)
+![Muqeet's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerCroc9&theme=radical&layout=compact)
