@@ -1,9 +1,8 @@
 ### Hi there 👋
 I am a Computer Science Student interested in Computer Security.\
 🔭Working on:
-+ Exploit Development
-+ Security Research
-+ OS Development
++ Game Development
++ AR VR Development
 
 <!--
 **KillerCroc9/KillerCroc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
