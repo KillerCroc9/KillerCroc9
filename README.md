@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Computer Science Student interested in Computer Security.\
+I am a Computer Science Student interested in Game Development and AR VR .
 🔭Working on:
 + Game Development
 + AR VR Development
