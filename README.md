@@ -23,4 +23,4 @@ I’m **Abdul Muqeet**, a seasoned **Developer** with a proven track record in *
 I am passionate about creating solutions that merge technology and creativity. I’ve worked on:  
 - **Immersive Drone Simulations**: Enhancing playback systems with custom interpolation algorithms.  
 - **AI Gaming Companion**: Developing NPC personality systems with advanced generative AI models.  
-- **Pac-Man Inspired Game**: Implementing randomized mazes, fog-of-war visibility, and AI-driven enemies.
+- **Pac-Man Inspired Game**: Implementing randomized mazes, fog-of-war visibility, and AI-driven enemies using reinforcement learning.
