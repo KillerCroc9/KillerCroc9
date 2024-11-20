@@ -13,13 +13,14 @@ I’m **Abdul Muqeet**, a seasoned **Developer** with a proven track record in *
 ---
 
 ### 🚀 **What I Bring**  
-- **Expertise**: Decades of combined experience in **Unreal Engine**, AI-driven systems, and real-time rendering. Proficient in advanced tools like Gradio, ONNX, and reinforcement learning frameworks.  
-- **Problem-Solving**: Hands-on experience tackling complex challenges in areas like procedural generation, drone simulation, and multiplayer networking.  
-- **Innovative Thinking**: Always exploring new ways to integrate **AI**, **physics-based simulations**, and **interactive systems** into projects.
+- **Expertise**: Years of hands-on experience in **Unreal Engine**, AI-driven systems, and real-time rendering. Proficient in advanced tools like Gradio, ONNX, and reinforcement learning frameworks.  
+- **Problem-Solving**: Tackling complex challenges in procedural generation, drone simulations, and multiplayer networking.  
+- **Innovative Thinking**: Pioneering new ways to integrate **AI**, **physics-based simulations**, and **interactive systems** into projects.
 
 ---
 
-### 📊 **Stats That Speak**  
-[![Muqeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KillerCroc9&theme=radical&show_icons=true)](https://github.com/KillerCroc9/github-readme-stats)  
-
-![Muqeet's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerCroc9&hide=ShaderLab,HTML,CSS&theme=radical&layout=compact)
+### 🌟 **Projects & Contributions**  
+I am passionate about creating solutions that merge technology and creativity. I’ve worked on:  
+- **Immersive Drone Simulations**: Enhancing playback systems with custom interpolation algorithms.  
+- **AI Gaming Companion**: Developing NPC personality systems with advanced generative AI models.  
+- **Pac-Man Inspired Game**: Implementing randomized mazes, fog-of-war visibility, and AI-driven enemies.
