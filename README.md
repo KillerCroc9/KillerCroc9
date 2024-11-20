@@ -13,7 +13,7 @@ I’m **Abdul Muqeet**, a seasoned **Developer** with a proven track record in *
 ---
 
 ### 🚀 **What I Bring**  
-- **Expertise**: Years of hands-on experience in **Unreal Engine**, AI-driven systems, and real-time rendering. Proficient in advanced tools like Gradio, ONNX, and reinforcement learning frameworks.  
+- **Expertise**: Years of hands-on experience in **Unreal Engine**, AI-driven systems, and real-time rendering.
 - **Problem-Solving**: Tackling complex challenges in procedural generation, drone simulations, and multiplayer networking.  
 - **Innovative Thinking**: Pioneering new ways to integrate **AI**, **physics-based simulations**, and **interactive systems** into projects.
 
