@@ -25,6 +25,5 @@ I am passionate about creating solutions that merge technology and creativity. I
 - **AI Gaming Companion**: Developing NPC personality systems with advanced generative AI models.  
 - **Pac-Man Inspired Game**: Implementing randomized mazes, fog-of-war visibility, and AI-driven enemies using reinforcement learning.
 
-[![Muqeet's github stats](https://github-readme-stats.vercel.app/api?username=KillerCroc9&theme=radical&show_icons=true)](https://github.com/KillerCroc9/github-readme-stats)
 
-![Muqeet's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerCroc9&hide=c%23,ShaderLab,HLSL,HTML,CSS&theme=radical&layout=compact)
+![Muqeet's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerCroc9&hide=HTML,CSS&theme=radical&layout=compact)
