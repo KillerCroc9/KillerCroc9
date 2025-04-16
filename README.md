@@ -27,6 +27,5 @@ I am passionate about creating solutions that merge technology and creativity. I
 
 
 ![Muqeet's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerCroc9&hide=HTML,CSS&theme=radical&layout=compact)
-<a href="https://github.com/KillerCroc9">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KillerCroc9&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+![Muqeet's Languages Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KillerCroc9&layout=compact&langs_count=8&theme=algolia")
+
