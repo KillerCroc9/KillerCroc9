@@ -1,5 +1,5 @@
 ### Welcome 👋  
-I’m **Abdul Muqeet**, a seasoned **Developer** with a proven track record in **Game Development** and **AR/VR Technologies**. With years of experience, I specialize in creating high-performance, immersive, and scalable systems that push the boundaries of innovation.  
+Hey, I’m a seasoned **Developer** with a proven track record in **Game Development** and **AR/VR Technologies**. With years of experience, I specialize in creating high-performance, immersive, and scalable systems that push the boundaries of innovation.  
 
 ---
 
